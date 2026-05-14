@@ -1,19 +1,9 @@
 const agaclar = [
     {
-        ad: "Meşe Ağacı",
-        bilgi: "2011 yılında dikildi. Ortalama boyu 6 metredir.",
+        ad: "Ihlamur Ağacı (Tilia)",
+        bilgi: "Yaklaşık 3-4 metre uzunluğunda 7-10 yaşındadır.Yaprakları kalp şeklinde ve kenarları ince dişlidir. Üst yüzeyi parlak yeşil, alt yüzeyi ise genellikle daha soluk renktedir.Yaz aylarında açan çiçekleri ile doğaya koku açısından tat verir.",
         resim: "images/agac1.jpg"
     },
-    {
-        ad: "Çınar Ağacı",
-        bilgi: "2018 yılında dikildi. Geniş gövdesi ile dikkat çeker.",
-        resim: "images/agac2.jpg"
-    },
-    {
-        ad: "Çam Ağacı",
-        bilgi: "2020 yılında dikildi. Yıl boyunca yeşil kalır.",
-        resim: "images/agac3.jpg"
-    }
 ];
 
 function getId() {
